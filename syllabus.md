@@ -25,8 +25,8 @@ All materials will be provided online:
 
 - Problem sets: 10%
 - Midterm exam: 30%
-- Final projects: 25%
-- Final exam: 30%
+- Final projects: 20%
+- Final exam: 35%
 - Participation: 5%
 
 ## Tentative Topics
