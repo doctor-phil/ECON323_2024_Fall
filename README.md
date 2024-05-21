@@ -31,7 +31,7 @@ Major course sections
 3. **Introduction to Pandas and Data Wrangling**
 4. **Data Science Case Studies and Tools**
 
-Grading: Problem sets: 25%; Midterm: 20%; Final projects: 25%; Final exam: 25%; Attendance/Participation: 5%
+Grading: Problem sets: 10%; Midterm: 30%; Final projects: 20%; Final exam: 35%; Attendance/Participation: 5%
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/theme/projects.html)
 
