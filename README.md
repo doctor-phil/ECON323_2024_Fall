@@ -18,9 +18,9 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Instructor and Teaching Assistant
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
-- Office Hours: Monday 12pm-1pm and Wednesday 11am-12pm, Iona #106
+- Office Hours: TBD
 - TA: Daniel Jaramillo [daniel.jaramillo@alumni.ubc.ca](mailto:daniel.jaramillo@alumni.ubc.ca)
-- Office Hours: Tuesdays 2-3pm, Iona #434
+- Office Hours: TBD
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
