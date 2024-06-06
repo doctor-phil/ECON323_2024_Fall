@@ -9,8 +9,9 @@
 ## Course Overview
 This is a course introducing the computational and data science tools used in modern economics.
 
-We will apply a programming language (Python) to analyze these sorts of
-data and making numerical calculations/simulations of models in economics.
+We will explore the intersection of data science, economics, and programming, and learn how they can be used to understand the world around us. The course will focus on learning practical programming skills for the workplace and future studies in economics and finance, and is envisioned as a complement to econometrics. Unlike other courses in computer science, data science, or statistics, the emphasis of this course includes both the programming and the statistics necessary to analyze data and subsequently interpret results through the lens of economics.
+
+This course is **not** recommended for students who already have significant experience with Python, or have taken courses like CPSC 103/107 or COMM 337.
 
 The classes will be held at **LASR 104** from 5:00PM to 6:20PM.
 
