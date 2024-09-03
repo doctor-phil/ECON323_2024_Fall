@@ -100,8 +100,6 @@ Requests for academic concessions should be made before the due date for that gr
 The specific rules for the use of AI tools are at the discretion of the course instructor. Those rules might change over the course of the term as new technologies become available. Changes to those rules might change the content of assessments and the way that your work is evaluated. If no written instructions on the use of AI tools have been provided by the instructor, the use of all AI tools is strictly prohibited in the course. Where the written instructions permit the use of AI tools, that usage must be documented and attributed within your assessment(s). Students are responsible for all factual inaccuracies that are created by the use of AI tools. Please speak to your instructor if you have further questions about the ways in which AI technology use is permitted in this course.
 
 ### Specific Course Policy on AI Tools for ECON323
-As stated above, this course policy is subject to change throughout the term. Whenever the policy is changed, students will be notified through a Canvas/Piazza announcement, and all changes will be reflected in this syllabus.
-
 In this course, you are permitted the use of AI tools on homework assignments. If you use an AI tool for the homework assignment, you are **required** to provide, at the end of the homework notebook, a markdown cell that contains a list of:
  1. Which AI tool(s) you used.
  2. A sentence or so about how you used each tool to assist with the assignment questions.
@@ -109,7 +107,10 @@ In this course, you are permitted the use of AI tools on homework assignments. I
 As specified above, **students are responsible for any and all factual inaccuracies that are created by the use of AI tools.**
 This policy also tentatively applies to the final project, although specific clarification of the requirements for the use of AI tools on the final project will be added as the course progresses. Generally speaking, reliance on AI tools for non-trivial tasks on the final project is **strongly discouraged**, as it tends to produce work that is predictable, facile, and low-quality. There are certain use cases however -- including checking spelling and grammar -- where the use of such tools may be valuable.
 
-**All AI tools are prohibited from use during the midterm and final exam.** If a student relies too much on these tools for the homework assignments, they will likely be ill-prepared for the exam.
+**All AI tools are prohibited from use during the midterm and final exam.** If a student relies too much on these tools for the homework assignments, they will likely be ill-prepared for the exam. Students who use AI tools on teh exam will be given a zero on that component of the course and will be reported to the Dean’s office for academic misconduct (please see Policy on Academic Honesty).
+
+As stated above, this course policy is subject to change throughout the term. Whenever the policy is changed, students will be notified through a Canvas/Piazza announcement, and all changes will be reflected in this syllabus.
+
 
 ### VSE Policy Prohibiting the Hiring of Tutors: 
 The Vancouver School of Economics expressly prohibits any student from hiring a tutor and/or editor to assist with any portion of written work or academic research. If at any point you feel in need of additional writing support, please speak with your instructor and/or arrange for a writing consultation with UBC’s Centre for Writing and Scholarly Communication (https://writing.library.ubc.ca/). Additionally, you have access to research support through the UBC Library:  https://guides.library.ubc.ca/econ and https://guides.library.ubc.ca/econ490.
