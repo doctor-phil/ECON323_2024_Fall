@@ -17,21 +17,21 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 The remaining portion of the schedule will be adjusted after the midterm exam.
 
 12. **October 15** - [Pandas basics](https://datascience.quantecon.org/pandas/data_clean.html)
-16. **October 17** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
-17. **October 22** -  [Merge](https://datascience.quantecon.org/pandas/merge.html)
-18. **October 24** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
-19. **October 29** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-20. **October 31** - [Visualization](https://datascience.quantecon.org/tools/matplotlib.html), brief overview of [Visualization Rules](https://datascience.quantecon.org/tools/visualization_rules.html)
-21. **November 5** - [Mapping](https://datascience.quantecon.org/tools/maps.html)
-22. **November 7** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-23. **November 12** - Midterm break
-24. **November 14** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/numpy/randomness.html)
-25. **November 19** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html) 
-26. **November 21** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-28. **November 26** - Mathematics of regression (short example notebook [here](./extra/optimization_example_regression.ipynb))
-29. **November 28** - [Regression](https://datascience.quantecon.org/tools/regression.html)
-30. **December 3** - Finish [Regression](https://datascience.quantecon.org/tools/regression.html), start [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html)
-31. **December 5** - Last day of class. Finish [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html), Final exam review
+13. **October 17** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
+14. **October 22** -  [Merge](https://datascience.quantecon.org/pandas/merge.html)
+15. **October 24** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
+16. **October 29** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
+17. **October 31** - [Visualization](https://datascience.quantecon.org/tools/matplotlib.html), brief overview of [Visualization Rules](https://datascience.quantecon.org/tools/visualization_rules.html)
+18. **November 5** - [Mapping](https://datascience.quantecon.org/tools/maps.html)
+19. **November 7** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+20. **November 12** - Midterm break
+21. **November 14** - [Applied Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html), brief overview of [Randomness](https://datascience.quantecon.org/numpy/randomness.html)
+22. **November 19** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html) 
+23. **November 21** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+24. **November 26** - Mathematics of regression (short example notebook [here](./extra/optimization_example_regression.ipynb))
+25. **November 28** - [Regression](https://datascience.quantecon.org/tools/regression.html)
+26. **December 3** - Finish [Regression](https://datascience.quantecon.org/tools/regression.html), start [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html)
+27. **December 5** - Last day of class. Finish [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html), Final exam review
 
 ## Problem Sets and Assignments
 **Important:** work on the problem sets in the [course git repository](./problem_sets), not the ones from `quantecon.org`! **Do not** do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
