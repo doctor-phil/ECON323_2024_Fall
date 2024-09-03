@@ -32,6 +32,7 @@ The remaining portion of the schedule will be adjusted after the midterm exam.
 25. **November 28** - [Regression](https://datascience.quantecon.org/tools/regression.html)
 26. **December 3** - Finish [Regression](https://datascience.quantecon.org/tools/regression.html), start [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html)
 27. **December 5** - Last day of class. Finish [Social and Economic Networks](https://datascience.quantecon.org/applications/networks.html), Final exam review
+28. **Date TBA** - Final exam (room BUCH B126) 
 
 ## Problem Sets and Assignments
 **Important:** work on the problem sets in the [course git repository](./problem_sets), not the ones from `quantecon.org`! **Do not** do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
