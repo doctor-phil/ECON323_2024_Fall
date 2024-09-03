@@ -70,10 +70,7 @@ All materials will be provided online:
   * Data Visualization
     * Core visualization principles
     * Maps
-  * Miscellaneous
-    * Web scraping
-    * Fitting probability distributions
-    * Natural language processing
+  * Network analysis
 
 ## Schedule
 
