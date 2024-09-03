@@ -99,7 +99,7 @@ Requests for academic concessions should be made before the due date for that gr
 ### Policy on the Use of AI Learning Tools
 The specific rules for the use of AI tools are at the discretion of the course instructor. Those rules might change over the course of the term as new technologies become available. Changes to those rules might change the content of assessments and the way that your work is evaluated. If no written instructions on the use of AI tools have been provided by the instructor, the use of all AI tools is strictly prohibited in the course. Where the written instructions permit the use of AI tools, that usage must be documented and attributed within your assessment(s). Students are responsible for all factual inaccuracies that are created by the use of AI tools. Please speak to your instructor if you have further questions about the ways in which AI technology use is permitted in this course.
 
-## Specific Course Policy on AI Tools for ECON323
+### Specific Course Policy on AI Tools for ECON323
 In this course, you are permitted the use of AI tools on homework assignments. If you use an AI tool for the homework assignment, you are **required** to provide, at the end of the homework notebook, a markdown cell that contains a list of:
  1. Which AI tool(s) you used.
  2. A sentence or so about how you used each tool to assist with the assignment questions.
