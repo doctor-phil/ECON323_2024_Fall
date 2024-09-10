@@ -38,4 +38,4 @@ The remaining portion of the schedule will be adjusted after the midterm exam.
 **Important:** work on the problem sets in the [course git repository](./problem_sets), not the ones from `quantecon.org`! **Do not** do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
 When assigned, all dates and deadlines will also be posted on Canvas.
 
-1. Problem set 1 (TBA)
+1. [Problem set 1](./problem_sets/problem_set_1.ipynb) (due September 17)
