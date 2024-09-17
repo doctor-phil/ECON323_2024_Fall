@@ -20,7 +20,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 - Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
 - Office Hours: Tuesday 12pm-1pm, Room Iona #106 
 - TA: Derek Caughy [dcaughy@mail.ubc.ca](mailto:dcaughy@mail.ubc.ca)
-- Office Hours: Thursday 3:30pm-4:30pm, Room Iona #038 (Starting September 12th)
+- Office Hours: Thursday 3:00pm-4:00pm, Room Iona #342
   - Additional TA Office Hour available upon request
 
 ## Syllabus
