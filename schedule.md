@@ -40,3 +40,4 @@ When assigned, all dates and deadlines will also be posted on Canvas.
 
 1. [Problem set 1](./problem_sets/problem_set_1.ipynb) (due September 17)
 2. [Problem set 2](./problem_sets/problem_set_2.ipynb) (due September 26)
+3. [Final project proposal](./final_project.md) (due October 29)
