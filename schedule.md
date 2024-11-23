@@ -43,3 +43,4 @@ When assigned, all dates and deadlines will also be posted on Canvas.
 3. [Problem set 3](./problem_sets/problem_set_3.ipynb) (due October 24)
 4. [Final project proposal](./final_project.md) (due October 29)
 5. [Problem set 4](./problem_sets/problem_set_4.ipynb) (due November 19)
+6. [Final project (first draft)](./final_project.md) (due November 26)
